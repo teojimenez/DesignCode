@@ -1,5 +1,5 @@
 ## Design-Code
-* Given a C code, make the UML Design.
+* Make the UML design of an application from talking to a supposed client.
 <hr>
 
 ![UML-Design](https://i.imgur.com/tBkXQT7.png)
